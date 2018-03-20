@@ -2,7 +2,6 @@ package com.adamzareba.spring.security.oauth2.swagger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration;
 
 @SpringBootApplication
 public class Application {
